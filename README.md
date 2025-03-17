@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🪂 I'm currently working on my first coding certification bootcamp focusing on front end software. I've just started learning HTML and CSS language, but I'm excited to begin this new adventure and delve into the world of software engineering! 💫
 <!--
 **SkyRunnerGirl/SkyRunnerGirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
